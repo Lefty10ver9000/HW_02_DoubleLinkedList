@@ -1,0 +1,26 @@
+Populate List 1:
+
+Populate List 2:
+
+List 1:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[samueldscaggs@gmail.com]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[wbw64076@uga.edu, lefty10ver9000@gmail.com]}
+
+List 2:
+Contact{lastName='Hartfield', firstName='Dylan', emailAddresses=[dhartfield@yahoo.com]}
+Contact{lastName='Jackson', firstName='Lamar', emailAddresses=[]}
+Contact{lastName='Scaabs', firstName='Wemms', emailAddresses=[swemms@gmail.com, polaroidtype@gg.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[wortheyw@gmail.com]}
+
+Merging List 1 into List 2:
+
+Print Merged List:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Hartfield', firstName='Dylan', emailAddresses=[dhartfield@yahoo.com]}
+Contact{lastName='Jackson', firstName='Lamar', emailAddresses=[]}
+Contact{lastName='Scaabs', firstName='Wemms', emailAddresses=[swemms@gmail.com, polaroidtype@gg.com]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[samueldscaggs@gmail.com]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[wortheyw@gmail.com, wbw64076@uga.edu, lefty10ver9000@gmail.com]}

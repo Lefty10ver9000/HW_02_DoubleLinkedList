@@ -1,0 +1,35 @@
+Initial Contact List:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[samueldscaggs@gmail.com]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[wbw64076@uga.edu, lefty10ver9000@gmail.com]}
+
+Processing Commands:
+Adding Contact:     Villa, Wimbo
+Deleting Contact:   Worthey, William
+Number of contacts: 4
+Emails list:        Worthey, Jacob:     [jacobaworthey@gmail.com]
+
+Current Contact List:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[samueldscaggs@gmail.com]}
+Contact{lastName='Villa', firstName='Wimbo', emailAddresses=[]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Delete Email:        true
+Adding Contact:     Worthey, William, lefty105@gmail.com
+Adding Contact:     Worthey, William, wbw64076@uga.edu
+List is empty:        false
+
+Current Contact List:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[]}
+Contact{lastName='Villa', firstName='Wimbo', emailAddresses=[]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[lefty105@gmail.com, wbw64076@uga.edu]}
+
+Final List:
+Contact{lastName='Brillianti', firstName='Anna', emailAddresses=[]}
+Contact{lastName='Scaggs', firstName='Dawson', emailAddresses=[]}
+Contact{lastName='Villa', firstName='Wimbo', emailAddresses=[]}
+Contact{lastName='Worthey', firstName='Jacob', emailAddresses=[jacobaworthey@gmail.com]}
+Contact{lastName='Worthey', firstName='William', emailAddresses=[lefty105@gmail.com, wbw64076@uga.edu]}

@@ -1,0 +1,10 @@
+addContact 	Villa, Wimbo
+deleteContact 	Worthey, William
+lengthContacts
+getEmailAddress Worthey, Jacob
+printContacts
+deleteEmail Scaggs, Dawson, samueldscaggs@gmail.com
+addContact Worthey, William, lefty105@gmail.com
+addContact Worthey, William, wbw64076@uga.edu
+isEmptyContactList
+printContacts
